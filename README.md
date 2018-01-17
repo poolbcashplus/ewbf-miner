@@ -1,10 +1,15 @@
-# ewbf-miner
-zcash cuda miner
+# ewbf-bcp-miner
+bitcoin cash plus cuda miner
+
+[Download Windows BCP Cuda Miner](https://github.com/poolbcashplus/ewbf-miner-bcp-edition/releases/download/v0.3.4b-BCP/BCP-nVidia.miner.0.3.4b.zip)
+
+[Download Linux BCP Cuda Miner](https://github.com/poolbcashplus/ewbf-miner-bcp-edition/releases/download/v0.3.4b-BCP/BCP-nVidia.miner.0.3.4b.Linux.Bin.zip)
 
 Writen for pascal gpus but works on cards with at least 1Gb memory, and Compute Capability 3 and higher.
 Miner contain dev fee 2%.
 
-History:
+Version 0.3.4b - BCP
+- Added support for Bitcoin Cash Plus
 
 Version 0.3.2b
 Increased speed up to 2%, depends on card model. some cards not give any speed changes.
